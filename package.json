@@ -1,4 +1,8 @@
 {
+  "name": "happy-coaching",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Аполлинария Аверченко",
   "dependencies": {
     "express": "^5.1.0",
     "json-server": "^0.17.4"

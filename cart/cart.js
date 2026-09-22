@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: 2026 Аполлинария Аверченко
+// SPDX-License-Identifier: MIT
+
 import { getTranslations, applyLanguage } from '/header_footer/language-switcher.js';
 import { updateHeader } from '/header_footer/header_footer_js.js';
 

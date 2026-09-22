@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: 2026 Аполлинария Аверченко
+// SPDX-License-Identifier: MIT
+
 import commonPasswords from './common-passwords.js';
 import { getTranslations } from '/header_footer/language-switcher.js';
 

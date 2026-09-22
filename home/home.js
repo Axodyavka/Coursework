@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: 2026 Аполлинария Аверченко
+// SPDX-License-Identifier: MIT
+
 // Создаем простой PDF файл для скачивания
 function createSamplePDF() {
     const pdfContent = `

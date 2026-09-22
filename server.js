@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: 2026 Аполлинария Аверченко
+// SPDX-License-Identifier: MIT
+
 const jsonServer = require('json-server');
 const path = require('path');
 const fs = require('fs').promises;

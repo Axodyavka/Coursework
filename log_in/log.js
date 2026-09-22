@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: 2026 Аполлинария Аверченко
+// SPDX-License-Identifier: MIT
+
 document.getElementById('loginForm').addEventListener('submit', async function (e) {
     e.preventDefault();
 

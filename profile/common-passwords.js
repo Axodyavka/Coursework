@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: 2026 Аполлинария Аверченко
+// SPDX-License-Identifier: MIT
+
 const commonPasswords = [
     'Password123!', 'Qwerty123@', 'Admin1234#', 'Secret123$',
     'Welcome123%', 'Login1234^', 'Access123&', 'User1234*',

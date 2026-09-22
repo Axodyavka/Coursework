@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: 2026 Аполлинария Аверченко
+// SPDX-License-Identifier: MIT
+
 const dino = document.getElementById("dino");
 const cactus = document.getElementById("cactus");
 const gameOver = document.getElementById("game_over");
